@@ -2,4 +2,10 @@ wadawdawd
 awdawdaw
 awdawdawd
 awdawd
-
+Android平台视频SDK
+SVN：4024
+1、优化外放声音调节；
+问题：
+1、testDemo：会议内屏幕共享，打开标注本地标注无效；
+2、testDemo:会议内邀请PC端testDemo，PC端接受邀请后并没有进入会议；
+3、互动白板：加入PC端互动白板Demo创建的白板房间，出现一次崩溃；
